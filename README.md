@@ -2,8 +2,8 @@
 [![](https://jitpack.io/v/codeBud7/kovid-19-api.svg)](https://jitpack.io/#codeBud7/kovid-19-api)
 
 A Kotlin covid-19 api wrapper of data from https://github.com/mathdroid/covid-19-api 
-So smart people like you can build something useful without caring much about the interface to data.
 
+Smart people like you can build something useful without caring much about the interface to data.
 ![](work-from-home.gif)
 
 Motivation ✨
