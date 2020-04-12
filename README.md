@@ -97,5 +97,6 @@ Apache license 2.0 © Sebastian Puskeiler
 
 Stay healthy 😷
 ----------------
-Wash your hands
+Wash your hands and take care of others and yourself.
+
 ![](wash-your-hands.gif)
