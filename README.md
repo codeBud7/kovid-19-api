@@ -9,7 +9,7 @@ Motivation ✨
 
 Scope 🧰️
 ----------------
-```$kotlin
+```kotlin
 fun main() {
 
     println("Hi.")
