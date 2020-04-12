@@ -3,9 +3,10 @@ A Kotlin covid-19 api wrapper of data from https://github.com/mathdroid/covid-19
 
 Motivation ✨
 ----------------
-* Make covid-19 data available for JVM
-* Get some experience with fuel API client
-* Create some nice DSL (still in the making)
+- Smart people like you can build something useful without caring much about the interface to data
+- Make covid-19 data available for JVM
+- Get some experience with fuel API client
+- Create some nice DSL (still in the making)
 
 Scope 🧰️
 ----------------
